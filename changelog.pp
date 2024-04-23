@@ -7,3 +7,4 @@ A few small new features:
 Line snapping: You can now make lines snap in 45 degree increments by pressing the big circle button in the shape menu.
 Palette is now always visible to make things easier.
 Brand new update notifier system!
+Palette is now slightly transparent to allow you to determine pen and eraser sizes easier.
