@@ -1,7 +1,7 @@
 Here's what's new in 1.1.2!
 A few small bug fixes:
 Fixed buttons detecting a press when they shouldn't.
-Shapes won't accitentally place while pressing a shape button in the shape menu.
+Shapes won't accidentally place while pressing a shape button in the shape menu.
 Fixed a few issues that probably didn't affect regular users.
 Removed some pointless code.
 Fixed accidental debug code for saving, making you copy the save to the clipboard even on PC.
