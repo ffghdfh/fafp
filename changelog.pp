@@ -1,13 +1,15 @@
-Here's what's new in 1.1.2!
-A few small bug fixes:
-Fixed buttons detecting a press when they shouldn't.
-Shapes won't accidentally place while pressing a shape button in the shape menu.
-Fixed a few issues that probably didn't affect regular users.
-Removed some pointless code.
-Fixed accidental debug code for saving, making you copy the save to the clipboard even on PC.
+Here's what's new in 1.2!
+Huge fixes:
+Pen size now matches the palette menu's pen size from the start
+Replaced some infinite loops to reduce processing load
+Behind the scenes improvements (mostly helps me lol)
+Fixed some weird undoing and redoing issues
 
-A few small new features:
-Line snapping: You can now make lines snap in 45 degree increments by pressing the big circle button in the shape menu.
-Palette is now always visible to make things easier.
-Brand new update notifier system!
-Palette is now slightly transparent to allow you to determine pen and eraser sizes easier.
+Huge changes:
+New palette menu (better preview, better shape buttons, better size picker, better color picker)
+made pen preview borders make a bit more sense
+You you can show both the predefined and custom colors in palette
+Triangle tool has markers to show triangle's orientation
+Brand new settings menu (separate from palette)
+You can change which side the size slider is on (i'm left handed and was
+a bit selfish when making the app so now right handed ppl can use it better)
