@@ -1,0 +1,4 @@
+Windows: 7 to 11
+Android: 4.1 to 14
+MacOS: 10.13 and later
+Linux: ...?
