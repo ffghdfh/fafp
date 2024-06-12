@@ -8,6 +8,7 @@ Bug fixes:
 Fixed the warning screen popping up before turning black and fading back in.
 Fixed text tool being flipped by default.
 Fixed drawing tool going off when tapping palette button on touchscreen devices. (NOTE!! This introduces a slight delay when drawing! Depends on your framerate on how long it is. Sorry! Tip: try not to make very very quick strokes or half of it might get cut off.)
+Update changelog text now starts off at the correct Y position.
 
 Misc:
 Fixed updater screen to include shorter bitly link.
