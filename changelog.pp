@@ -1,15 +1,13 @@
-Here's what's new in 1.4.1! (Please update if you're on
-anything lower than 1.4, 1.3 sucks.
-NO MORE INSTALLERS! Just the zip containing the game files.
-Both chrome and windows flags the 64 bit installer.
-
+Here's what's new in 1.4.2!
+WARNING: OLD SAVE FILES WON'T WORK!
+CONVERT THEM TO THE NEW FORMAT WITH THE BUTTON ON THE TITLE SCREEN!!!
 Bug fixes:
-- Fixed rainbow text not loading as rainbow
-- Fixed text undoing deleting more than one text
+- Fixed autoreload picker in wrong position
+- Made autoreload not play the reload sound
+- Made low battery warning not loop
 
-New stuff:
-- added automatic reload feature
-- redid the title screen a bit to fit UI theme
-
-Misc:
-- Fixed the version number on the title screen
+Other stuff:
+- brand new, slightly faster to load, compressed file format that can store new kinds of data easily
+- conversion tool on title screen
+- internal performance stuff
+- Most button actions can now be canceled by dragging your mouse / finger off the button
