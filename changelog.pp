@@ -1,14 +1,8 @@
-Here's what's new in 1.4.3!
-(again, WARNING: OLD SAVE FILES WON'T WORK and haven't worked since 1.4.2 
-CONVERT THEM TO THE NEW FORMAT WITH THE BUTTON ON THE TITLE SCREEN!!!)
+Here's what's new in 1.4.4!
 
-Bug fixes:
-- fixed chance for infinite loop when loading a drawing
-- fixed random lines in rainbow shapes
-- fixed some very glaring issues in the tutorial
+- Saving has been disabled since it just crashes the program and you can't
+even take a screenshot of what you drew.
 
-Other stuff:
-- the pen color / size preview won't show when editing text
-- you can now edit text just by typing
-- you can add line breaks using enter now
-- made the buttons on the title screen less of an eyesore
+- This version of FAfP will probably be retired as the codebase is huge, bulky,
+unreliable and I have no idea what's causing the saving issue. Expect a full
+rewrite sometime in the next coming weeks/months idk ;3
